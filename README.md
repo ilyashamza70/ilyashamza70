@@ -24,6 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=ilyashamza70&icon=2&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can contact me via mail
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]() 
+  [![BuyMeACoffee](ilyashamza63@gmail.com)]() 
 
 
