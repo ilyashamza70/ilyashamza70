@@ -19,8 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 ---
 [![](https://visitcount.itsvg.in/api?id=ilyashamza70&icon=2&color=10)](https://visitcount.itsvg.in)
 
