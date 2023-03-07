@@ -22,7 +22,8 @@ Pending, hidden for now.
 
 [![](https://visitcount.itsvg.in/api?id=ilyashamza70&icon=2&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can contact me via mail @
 ## 💰 You can contact me via mail @
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=mail.ru&logoColor=white)](mailto:ilyashamza63@gmail.com?subject=Hey%2C%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.%20Can%20we%20discuss%20further%3F)
+
+<a href="mailto:ilyashamza63@gmail.com?subject=Github%20Connection%20Request&amp;body=Hey,%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.%20Can%20we%20discuss%20further%3F%20..." style="background-color: #a69de8; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Contact Me</a>
+
 
