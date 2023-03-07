@@ -23,6 +23,7 @@ Pending, hidden for now.
 [![](https://visitcount.itsvg.in/api?id=ilyashamza70&icon=2&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can contact me via mail @
+    [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ilyashamza63@gmail.com) 
 
 
 
