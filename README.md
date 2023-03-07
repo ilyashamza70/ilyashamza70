@@ -22,7 +22,7 @@ Pending, hidden for now.
 
 [![](https://visitcount.itsvg.in/api?id=ilyashamza70&icon=2&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can contact me via mail
+  ## 💰 You can contact me via mail @
 
 
 
