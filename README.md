@@ -24,6 +24,5 @@ Pending, hidden for now.
 
 ## 💰 You can contact me via mail @
 
-<a href="mailto:ilyashamza63@gmail.com?subject=Github%20Connection%20Request&amp;body=Hey,%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.%20Can%20we%20discuss%20further%3F%20..." style="background-color: #a69de8; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Contact Me</a>
-
+<a href="mailto:ilyashamza63@gmail.com?subject=Github%20Connection%20Request&amp;body=Hey%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.%20Can%20we%20discuss%20further%3F%0A%0A%2D%20[Your%20Name]"><button style="background-color:#a975e6;color:#fff;padding:10px;border-radius:5px;border:none;">💰 Contact me via mail</button></a>
 
