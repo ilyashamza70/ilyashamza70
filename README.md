@@ -19,6 +19,7 @@ Pending, hidden for now.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
+[![](https://dev-memes-api.itsvg.in/meme?caption=When%20you%20fix%20the%20bug%20without%20knowing%20why%20it%20worked&theme=tokyonight)](https://dev-memes-api.itsvg.in)
 
 [![](https://visitcount.itsvg.in/api?id=ilyashamza70&icon=2&color=10)](https://visitcount.itsvg.in)
 
