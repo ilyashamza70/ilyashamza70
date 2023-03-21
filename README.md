@@ -19,8 +19,6 @@ Pending, hidden for now.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme" title="Random Dev Meme">
-
 
 [![](https://visitcount.itsvg.in/api?id=ilyashamza70&icon=2&color=10)](https://visitcount.itsvg.in)
 
