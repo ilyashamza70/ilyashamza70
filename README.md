@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓   Got my bachelors degree in Computer Engineering, in Italy, at the University of Modena and Reggio Emilia, UniMoRE.<br>👨‍💻   Working experience with R&D team of Tenneco Inc., leader in automotive industry,  as a firmware/software developer. Where I also wrote my thesis on a smart plug-top DIGITAL for automotive appliance, using 16-bit MCU.<br>📜 Working Experience with Whirlpool as a Software Integrator <br>💡   Currently Enrolled in my Masters Degree in Computer Engineering, Embedded Systems at PoliTo.<br><br>⏳   Time is always on the run from me.<br>🏍️   Love driving. <br>🌇   Love travelling and discovering new places.<br>
+👨‍🎓   Got my bachelors degree in Computer Engineering, in Italy, at the University of Modena and Reggio Emilia, UniMoRE.<br>📜   Thesis on a smart plug-top DIGITAL for automotive appliance, using 16-bit MCU. <br>👨‍💻   Working experience with R&D team of Tenneco Inc., leader in automotive industry,  as a firmware/software developer. <br> 🤳   Working Experience with Whirlpool as a Software Integrator <br>💡   Currently Enrolled in my Masters Degree in Computer Engineering, Embedded Systems at PoliTo.<br><br>⏳   Time is always on the run from me.<br>🏍️   Love driving. <br>🌇   Love travelling and discovering new places.<br>
 
 
 ## 🌐 Socials:
