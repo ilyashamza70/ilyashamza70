@@ -1,4 +1,4 @@
-# <img width="50" height="50" src="https://img.icons8.com/ios-filled/100/000000/business-goal.png" alt="business-goal"/>        FKUnited
+# <img width="50" height="50" src="https://img.icons8.com/ios-filled/100/000000/business-goal.png" alt="business-goal"/>        FKU
 
 ## 🏢 IT and STEM Consulting Firm [startup for now]
 We are a highly specialized consulting firm providing advanced solutions for embedded systems and software. Our expertise covers quite a wide range of tech stack and services, this way optimizing and assuring the best deliverable for our clients and investors.
