@@ -3,6 +3,7 @@
 
 
 # <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/000000/business-goal.png" alt="business-goal"/> FKU
+# <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/000000/business-goal.png" alt="business-goal"/>
 ## 🏢 IT and STEM Consulting Services
 
 ### About Us
