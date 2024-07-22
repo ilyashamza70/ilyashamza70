@@ -9,11 +9,11 @@ We offer a comprehensive range of professional services, including:
 - **Electronics for Embedded Systems**: Design and development of hardware for embedded systems.
 - **Software for Embedded Systems**: Development of operating systems (OS) and real-time operating systems (RTOS).
 - **Firmware and Middleware**: Implememting firmware and middleware for a wide range of applications.
-- **Low-Level Resources**: Development of low-level software, including assemblers and other system tools.
+- **SaaS**: Development of cloud computing technologies to deliver cloud Applications such as Web Pages.
 
 ### Why Choose Us
-- **Experience**: No experience in the IT and STEM sectors, as this is a new buisness, just founded by Hamza Ilyas.
-- **Professionalism**: Highly professional and personalized services, based on real knowledge forged during recent years.
+- **Experience**: No experience, as this is a new buisness, just founded by Eng. Hamza Ilyas.
+- **Professionalism**: Highly professional and personalized services, based on real knowledge forged during recent years of experiense at work and at different Universities.
 - **Innovation**: Innovative and cutting-edge solutions to your everyday and everyyear problem.
 
 Contact us for more information on how we can help you achieve your technological goals.
