@@ -1,9 +1,11 @@
-# 💫 About Me:
+# <img width="50" height="50" src="https://img.icons8.com/ios-filled/100/000000/business-goal.png" alt="business-goal"/>        FKUnited
+
+## 💫 About Me:
 👨‍🎓   Got my bachelors degree in Computer Engineering, in Italy, at the University of Modena, UniMoRE.<br>📜   Thesis on a smart plug-top DIGITAL for automotive appliance, using 16-bit dsPIC33. <br>👨‍💻   Working experience with R&D of Tenneco Inc., powertrain department, as a Firmware & Software developer. <br> 🤳   Worked with Whirlpool as a Software Integrator. <br>💡   Currently Enrolled in my Masters Degree in Computer Engineering, specializing in Embedded Systems, at PoliTo. <br>im   Working as an Electrical Project Engineer for pivital. <br>im  Working as a Project Manager for Deepscale Solutions.  <br><br>🏍️   Love driving. <br>🌇   Love travelling and discovering new places.<br>
 
 
-# <img width="50" height="50" src="https://img.icons8.com/ios-filled/100/000000/business-goal.png" alt="business-goal"/>        FKU
-## 🏢 IT and STEM Consulting Services
+
+# 🏢 IT and STEM Consulting Services
 
 ### About Us
 We are a highly specialized consulting firm providing advanced solutions for embedded systems and software. Our expertise covers quite a wide range of tech stack and services, this way optimizing and assuring the best deliverable for our clients and investors.
@@ -47,7 +49,7 @@ Pending, hidden for now.
 
 [![](https://visitcount.itsvg.in/api?id=ilyashamza70&icon=2&color=10)](https://visitcount.itsvg.in)
 
-### <img src="https://img.icons8.com/fluency/32/000000/email-open.png"/>     Personal mail :
+## <img src="https://img.icons8.com/fluency/32/000000/email-open.png"/>     Personal mail :
 [![](https://img.shields.io/badge/-Connect_with_me-10?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ilyashamza63@gmail.com?subject=Github%20Connection%20Request&body=Hey,%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.%20Can%20we%20discuss%20further%3F%0D%0A%0D%0A-%20[Your%20name%20or%20contact%20info])
 
 
