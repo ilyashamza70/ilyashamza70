@@ -2,7 +2,7 @@
 👨‍🎓   Got my bachelors degree in Computer Engineering, in Italy, at the University of Modena, UniMoRE.<br>📜   Thesis on a smart plug-top DIGITAL for automotive appliance, using 16-bit dsPIC33. <br>👨‍💻   Working experience with R&D of Tenneco Inc., powertrain department, as a Firmware & Software developer. <br> 🤳   Worked with Whirlpool as a Software Integrator. <br>💡   Currently Enrolled in my Masters Degree in Computer Engineering, specializing in Embedded Systems, at PoliTo. <br>im   Working as an Electrical Project Engineer for pivital. <br>im  Working as a Project Manager for Deepscale Solutions.  <br><br>🏍️   Love driving. <br>🌇   Love travelling and discovering new places.<br>
 
 
-# <img width="50" height="50" src="https://img.icons8.com/ios/50/business-goal.png" alt="business-goal"/> FKU
+# <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/000000/business-goal.png" alt="business-goal"/> FKU
 ## 🏢 IT and STEM Consulting Services
 
 ### About Us
