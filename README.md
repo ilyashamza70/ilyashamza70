@@ -36,7 +36,7 @@ Contact us for more information on how we can help you achieve your technologica
 
 # 📊 My Studies tree:
 Updates Coming very soon.
-![Study Tree Diagram](https://github.com/ilyashamza70/ilyashamza70/blob/main/StudyTreev2.1.drawio.png)
+[Study Tree Diagram](https://github.com/ilyashamza70/ilyashamza70/blob/main/StudyTreev2.1.drawio.png)
 
 
 ## 🏆 My GitHub Works:
