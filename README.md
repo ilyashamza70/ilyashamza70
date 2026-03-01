@@ -4,17 +4,17 @@
 We are a highly specialized consulting firm providing advanced solutions for embedded systems and software. Our expertise covers quite a wide range of tech stack and services, this way optimizing and assuring the best deliverable for our clients and investors.
 
 ### Our Services
-We offer a comprehensive range of professional services, including:
+We offer a wide & ubiquotus range of packages & consulting services:
 
-- **Electronics for Embedded Systems**: Design and development of hardware for embedded systems.
-- **Software for Embedded Systems**: Development of operating systems (OS) and real-time operating systems (RTOS).
-- **Firmware and Middleware**: Implememting firmware and middleware for a wide range of applications.
-- **SaaS**: Development of cloud computing technologies to deliver cloud Applications such as Web Pages.
+- **Electronics for Embedded Systems**: Design and development of hardware for embedded systems, IoT, System On Chip design, FPGA, specification & synthesis of DS, with demonstrated experties in Home apliances & Automotive applications. 
+- **Software for Embedded Systems**: Development & implementation of Engineering interfaces, GUIs, software for IoTs, desktop tools & CLI.
+- **Firmware and Middleware**: Implememting firmware and middleware for a wide range of applications: from RTOS to Microcontrollers such as dsPIC, Arduino, STM32, System on Chips, Porting. 
+- **SaaS**: Development of cloud computing technologies to deliver safe & buisness Applications such as Web engines, pages, dignostical services & cyber-securities.
 
 ### Why Choose Us
-- **Experience**: No experience, as this is a new buisness, just founded by Eng. Hamza Ilyas.
-- **Professionalism**: Highly professional and personalized services, based on real knowledge forged during recent years of experiense at work and at different Universities.
-- **Innovation**: Innovative and cutting-edge solutions to your everyday and everyyear problem.
+- **Experience**: Knowledge gained by studying computer engineering @ UniMoRE, Embedded systems @ PoliTo and my work carrer in Tenneco, WHirlpool, Viasat & Tomra, leader in technology fields.
+- **Professionalism**: Highly professional and personalized services, based on real scenarios forged during recent years of experiense at work and at different Universities, in different parts of the world.
+- **Innovation**: Cutting-edge & Universal solutions to our everyday life & its problems.
 
 Contact us for more information on how we can help you achieve your technological goals.
 ### Buisness mail:
