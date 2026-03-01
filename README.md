@@ -1,7 +1,8 @@
 # <img width="50" height="50" src="https://img.icons8.com/ios-filled/100/000000/business-goal.png" alt="business-goal"/>        FKUnited Inc.
 
 ## 🏢 IT and STEM Consulting Firm [startup for now]
-We are a highly specialized consulting firm providing advanced solutions for embedded systems and software. Our expertise covers quite a wide range of tech stack and services, this way optimizing and assuring the best deliverable for our clients and investors.
+We are a highly specialized consulting firm providing advanced solutions for embedded systems and software. Our expertise cover quite a wide range of tech stack and services.
+This optimizes and assures the best deliverables for all our stakeholders & clients.
 
 ### Our Services
 We offer a wide & ubiquotus range of packages & consulting services:
@@ -9,7 +10,7 @@ We offer a wide & ubiquotus range of packages & consulting services:
 - **Electronics for Embedded Systems**: Design and development of hardware for embedded systems, IoT, System On Chip design, FPGA, specification & synthesis of DS, with demonstrated experties in Home apliances & Automotive applications. 
 - **Software for Embedded Systems**: Development & implementation of Engineering interfaces, GUIs, software for IoTs, desktop tools & CLI.
 - **Firmware and Middleware**: Implememting firmware and middleware for a wide range of applications: from RTOS to Microcontrollers such as dsPIC, Arduino, STM32, System on Chips, Porting. 
-- **SaaS**: Development of cloud computing technologies to deliver safe & buisness Applications such as Web engines, pages, dignostical services & cyber-securities.
+- **SaaS**: Development of cloud computing technologies to deliver safe buisness Applications such as Web engines, pages, dignostical services & security-automations.
 
 ### Why Choose Us
 - **Experience**: Knowledge gained by studying computer engineering @ UniMoRE, Embedded systems @ PoliTo and my work carrer in Tenneco, WHirlpool, Viasat & Tomra, leader in technology fields.
@@ -23,7 +24,7 @@ Contact us for more information on how we can help you achieve your technologica
 
 
 # 💫 About Me:
-👨‍🎓   Got my bachelors degree in Computer Engineering, in Italy, at the University of Modena, UniMoRE.<br>📜   Thesis on a smart plug-top DIGITAL for automotive appliance, using 16-bit dsPIC33. <br>👨‍💻   Working experience with R&D of Tenneco Inc., powertrain department, as a Firmware & Software developer. <br> 🤳   Worked with Whirlpool as a Software Integrator. <br>💡   Currently Enrolled in my Masters Degree in Computer Engineering, specializing in Embedded Systems, at PoliTo. <br> 🔌   Working as an Electrical Project Engineer for pivital. <br> 🔏   Working as a Project Manager for Deepscale Solutions.  <br><br>🏍️   Love driving. <br> 🥎   Tennis Player. <br> 🌇   Love travelling and discovering new places.<br>
+👨‍🎓   Got my bachelors degree in Computer Engineering, in Italy, at the University of Modena, UniMoRE.<br>📜   Thesis on a smart plug-top DIGITAL for automotive appliance, using 16-bit dsPIC33. <br>👨‍💻   Working experience with R&D of Tenneco Inc., powertrain department, as a Firmware & Software developer. <br> 🤳   Worked with Whirlpools R&D as a Software Integrator, in Home appliances. <br>💡   Currently Enrolled in my Masters Degree in Computer Engineering, specializing in Embedded Systems, at PoliTo. <br> 🔌   Worked as an Electrical Project Engineer for pivital. <br> 🔏   Working as a Project Manager for Deepscale Solutions.  <br><br>🏍️   Love driving. <br> 🥎   Tennis Player. <br> 🌇   Love travelling and discovering new places.<br>
 
 
 ## 🌐 My Socials:
